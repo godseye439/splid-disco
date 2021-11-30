@@ -10,7 +10,7 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/godseye439/splid-disco"
+    "repository": "https://github.com/godseye439/splid-disco",
     "stack": "heroku-20",
     "website": "https://t.me/Ns_bot_updates",
     "success_url": "https://t.me/RenamerNs_bot",
