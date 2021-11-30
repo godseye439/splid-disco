@@ -1,6 +1,5 @@
 # Renamer-Bot
-## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Available Commands 🤖
 ```
 start - check whether bot is alive or not
